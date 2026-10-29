@@ -14,7 +14,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao/releases/download/v1.3.1/evejs-te-gong-jian-chuan-bao-1.3.1.zip"
+      "url": "https://github.com/weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao/releases/download/v1.3.8/evejs-te-gong-jian-chuan-bao-1.3.8.zip"
     }
   ],
   "evejsVersions": [
@@ -24,18 +24,18 @@
   "highlights": [],
   "history": [],
   "id": "evejs-te-gong-jian-chuan-bao",
-  "publishedAt": "2026-10-26",
+  "publishedAt": "2026-10-29",
   "readme": [
     "把 **ShipPack_Infinity 24.01** 里游戏服务端尚未收录的 **22 艘舰船**接进 EveJS。",
-    "> 现在本模组只保留 **22 艘真正的新船**。\n 位置在市场的特别版舰船目录下\n---"
+    "> 现在本模组只保留 **22 艘真正的新船**。"
   ],
   "repo": "https://github.com/weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao",
   "requiresRestart": true,
-  "sha256": "fb102e252469c76be4407d56dddbfed138c4568f14331ed7e2dd5e2e4c974a3b",
-  "sizeBytes": 358852288,
+  "sha256": "2ebbc607be24067be70385b7b72c6286948fdccc3aad400d98ef7b13d2d0357b",
+  "sizeBytes": 366265175,
   "tags": [
     "国服特供船",
     "22艘"
   ],
-  "version": "1.3.1"
+  "version": "1.3.8"
 }
